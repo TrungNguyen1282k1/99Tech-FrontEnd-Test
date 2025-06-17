@@ -41,7 +41,7 @@ Analyze a given React functional component using TypeScript and hooks, identify 
 
 ---
 
-## 📄 Original Code (With Issues)
+## 📄 Refactored Version
 
 ```TypeScript
 interface WalletBalance {
